@@ -1,0 +1,30 @@
+h1{
+    color: red;
+}
+h2{
+    color:   #f17236  ;
+    font-style: italic;
+}
+ol{
+    color: #cc420b;
+}
+li{
+    margin: 10px;
+}
+span{
+    background-color: yellow;
+}
+#para{
+    text-decoration: line-through;
+}
+i{
+    text-decoration: underline;
+}
+ul{
+    letter-spacing: 5px;
+}
+a{
+    color: #cc420b;
+    text-decoration: none;
+    background-color: yellow;
+}
